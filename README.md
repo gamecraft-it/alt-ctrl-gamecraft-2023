@@ -6,6 +6,8 @@ No coding or experience required. 😊
 
 ℹ️ More about the workshop: https://www.gamecraft.it/events/altctrljam-2023
 
+💬 We are also on Discord, join us, share & chat at https://discord.gg/X8ya36cTqC
+
 📧 If you have any questions, or want to find out more about GameCraft events (game jams, workshops like this quirky ALT.CTRL one), you can email us at: info@gamecraft.it
 
 ## Here you will find:
