@@ -13,3 +13,10 @@ No coding or experience required. 😊
 * Presentation from the workshop
 * Zine I made as an overview for the workshop, it's 1 x A4 print out, and if you need instructions to fold it into a zine, check out this video on how to fold your own 8-page zine: https://youtu.be/2LDyKQLEMtw?si=Dj7X4Kdq17Z6iUPA
 * Images: ALT.CTRL.GameCraft Logo and a couple of banners
+
+# Resources
+* Mick's source code and hardware for the workshop: https://github.com/micktwomey/alt-controller-jam
+
+---
+
+Note: A write-up is coming soon.
