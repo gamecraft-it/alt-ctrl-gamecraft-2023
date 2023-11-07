@@ -8,6 +8,8 @@ No coding or experience required. 😊
 
 💬 We are also on Discord, join us, share & chat at https://discord.gg/X8ya36cTqC
 
+🌈 Share your updates on your controller and/or game via https://itch.io/jam/altctrlgamecraft-2023-beta-festival
+
 📧 If you have any questions, or want to find out more about GameCraft events (game jams, workshops like this quirky ALT.CTRL one), you can email us at: info@gamecraft.it
 
 ## Here you will find:
